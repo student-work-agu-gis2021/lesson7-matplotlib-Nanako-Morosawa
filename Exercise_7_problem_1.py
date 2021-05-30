@@ -22,7 +22,7 @@ import pandas as pd
 x=np.random.rand(1000)
 y=np.random.rand(1000) 
 data=pd.DataFrame() 
-data["x"]=x
+data["x"]=x 
 data["y"]=y
 
 # Check your random values
