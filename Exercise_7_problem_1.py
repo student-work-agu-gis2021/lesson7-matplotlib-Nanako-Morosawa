@@ -64,7 +64,7 @@ plt.scatter(x,y,s=50,c=colors,cmap='jet',edgecolor='black')
 # YOUR CODE HERE 4
 plt.title("My random candy points") 
 plt.xlabel("X-labels")
-plt.ylabel("Y-labels")
+plt.ylabel("Y-labels") 
 plt.show()
 # Save the plot as a png file:
 outputfp = "my_first_plot.png"
