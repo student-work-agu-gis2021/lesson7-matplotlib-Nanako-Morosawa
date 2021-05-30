@@ -29,7 +29,7 @@ data["y"]=y
 print(data.head()) 
 
 # Check that you have the correct number of rows
-assert len(data) == 1000, "There should be 1000 rows of data."
+assert len(data) == 1000, "There should be 1000 rows of data." 
 
 
 # ### Part 2
