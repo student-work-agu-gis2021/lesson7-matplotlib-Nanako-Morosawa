@@ -26,7 +26,7 @@ data["x"]=x
 data["y"]=y 
 
 # Check your random values
-print(data.head())
+print(data.head()) 
 
 # Check that you have the correct number of rows
 assert len(data) == 1000, "There should be 1000 rows of data."
