@@ -38,7 +38,7 @@ assert len(data) == 1000, "There should be 1000 rows of data."
 # YOUR CODE HERE 2 to set colors
 colors=np.random.rand(1000) 
 # This test print should print out 10 first numbers in the variable colors
-print(colors[0:10])
+print(colors[0:10]) 
 
 # Check that the length matches
 assert len(colors) == 1000, "There should be 1000 random numbers for colors"
